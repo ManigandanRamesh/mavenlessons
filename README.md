@@ -1,2 +1,2 @@
 # mavenlessons
-it's another one new project
+java Restful API Project
